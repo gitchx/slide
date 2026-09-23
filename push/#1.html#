@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Push 3 Standalone Finger Drums</title>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"
+>
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/white.css"
+>
+
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-markdown="1.md"
+        data-separator="^\s*---\s*$">
+      </section>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      plugins: [RevealMarkdown]
+    });
+  </script>
+</body>
+</html>

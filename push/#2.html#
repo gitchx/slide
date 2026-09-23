@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Push 3 Standaloneでドラムを打ち込む</title>
+<link
+  rel="stylesheet"
+  href="../css/reveal.css"
+>
+<link
+  rel="stylesheet"
+  href="../css/reveal.css"
+>
+
+<link
+  rel="stylesheet"
+  href="../css/theme/white.css"
+>
+
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-markdown="2.md"
+        data-separator="^\s*---\s*$">
+      </section>
+    </div>
+  </div>
+
+
+  <script src="../js/reveal.js"></script>
+<script src="../js/plugin/markdown.js"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      plugins: [RevealMarkdown]
+    });
+  </script>
+</body>
+</html>
