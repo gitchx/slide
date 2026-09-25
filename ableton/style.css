@@ -1,0 +1,18 @@
+.slide {
+	font-size: 2em;
+}
+figure {
+	margin: 0;
+}
+.img-flex {
+	display: flex;
+}
+.img-flex > * {
+	flex: 1;
+}
+.little-text p {
+	font-size: 0.7em;
+}
+.little-text li {
+	font-size: 0.7em;
+}
