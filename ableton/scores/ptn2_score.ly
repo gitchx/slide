@@ -11,7 +11,7 @@
     \new DrumVoice = "down" {
       \voiceTwo
       \drummode {
-        bd8 bd r bd bd bd r bd
+        bd8 bd r4 bd4 r4  
       }
     }
   >>
