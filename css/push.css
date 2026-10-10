@@ -1,0 +1,21 @@
+.lil-img {
+  width: 4em;
+}
+.more-lil-img {
+  width: 3em;
+}
+.lil-text {
+  font-size: 0.5em;
+}
+.more-lil-text {
+  font-size: 0.3em;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+.space{
+  height: 1em;
+}

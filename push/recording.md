@@ -1,28 +1,50 @@
-#### 【Ableton Push 3 で PCなしでビートメイク #2】エレキギターを録音してみましょう！
+#### 【Ableton Push 3 で PCなしでビートメイク #3】エレキギターを録音してみましょう！
 ---
-新規ライブセットを作成します。
-<div style="height: 1em"></div>
+##### 新しいライブセットを作る
+<div class="lil-text">
+  何も入っていない空(から)の「曲」<br>"セット"を作成します。
+</div>
 
-#### 新しいライブセットを作る
-何も入っていない空(から)の「曲」<br>"セット"を作成します。
+<div class="flex">
+  <img class="more-lil-img" src="./images/page_mark.jpg" alt="page-mark">
+  <div class="lil-text">
+    ①ページのマーク（紙がめくれてる感じのマーク）を押します。<br>
+  </div>
+</div>
 
-<img src="./images/page_mark.jpg" alt="page-mark">
-①ページのマーク（紙がめくれてる感じのマーク）を押します。
+<div class="flex">
+  <img class="lil-img" src="./images/new_set.jpg">
+  <div class="lil-text">
+    ② 画面に New Set ボタンが出てくるので、New Set の下のボタンを押します。<br>
+  </div>
+</div>
 
-<img src="./images/new_set.jpg">
-② 画面に New Set ボタンが出てくるので、New Set の下のボタンを押します。
-
-<img src="./images/dont_save.jpg">
-③ 既に開いているセットがあると保存するかを聞かれるので<br>保存しない場合は Don’t Save を選択します。
-
-→ MIDIトラック 2つとAudioトラック 2つのセットが作られます。
+<div class="flex">
+  <img class="lil-img" src="./images/dont_save.jpg">
+  <div class="lil-text">
+    ③ 既に開いているセットがあると保存するかを聞かれるので<br>保存しない場合は Don’t Save を選択します。<br>
+  </div>
+</div>
+<div class="space"></div>
+<div class="lil-text">
+  → MIDIトラック 2つとAudioトラック 2つのセットが作られます。
+</div>
 
 ---
-チューナーとギターアンプシミュレーターをインサートする
+##### チューナーとギターアンプシミュレーターをインサートする
+<div class="flex">
+  <div class="more-lil-img">
+    <img src="./images/3-Audio-Track.jpg">
+  </div>
+  <div class="more-lil-text">
+    画面の「3-Audio」の下のボタンを押して、"「3-Audio」トラック"を選択します。
+  </div>
+</div>
 
-画面の「3-Audio」の下のボタンを押して、"「3-Audio」トラック"を選択します。
+<div class="lil-img">
+  <img src="./images/plus.jpg">
+</div>
 
-<img src="./images/plus.jpg">
 プラスボタンを押して、Device > Audio Effects > Tuner を選択します。
 <figure>
 <img src="./images/device.jpg">
