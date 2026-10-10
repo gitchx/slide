@@ -1,8 +1,9 @@
 #### 【Ableton Push 3 で PCなしでビートメイク #2】エレキギターを録音してみましょう！
 ---
 新規ライブセットを作成します。
+<div style="height: 1em"></div>
 
-### 新しいライブセットを作る
+#### 新しいライブセットを作る
 何も入っていない空(から)の「曲」<br>"セット"を作成します。
 
 <img src="./images/page_mark.jpg" alt="page-mark">
