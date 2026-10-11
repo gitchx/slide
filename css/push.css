@@ -71,3 +71,24 @@ figcaption{
 .big-img img{
   width: 25em;
 }
+
+.reveal figure img{
+  width: 15em;
+}
+
+.caption-2-img{
+  margin-top: 5em;
+}
+
+.reveal figure .big-img{
+  width: 15em;
+  margin-inline: auto;
+}
+
+figure {
+  margin: 0;
+}
+
+.flex .big-img{
+  display: flex;
+}

@@ -178,7 +178,7 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 
   <figure>
 
-  ![browser_tuner.jpg](./images/browser_tuner.jpg)
+  ![browser_amp.jpg](./images/browser_amp.jpg)
   <figcaption>Device > Audio Effects > Amp</figcaption>
   </figure>
 </div>
@@ -212,7 +212,7 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 
   <figure>
 
-  ![browser_tuner.jpg](./images/browser_tuner.jpg)
+  ![browser_cab.jpg](./images/browser_cab.jpg)
   <figcaption>Device > Audio Effects > Cabinet</figcaption>
   </figure>
 </div>
@@ -250,30 +250,69 @@ Tunerの横の「Amp」や「Cabinet」のボタンを押すことで画面上�
 
 ---
 ##### ギターを録音してみましょう！
-縦に三本線のマークのボタンを押して、セッションビューにします。
+<div class="steps">
+  
+  
+  ![session_view_btn.jpg](./images/session_view_btn.jpg)
+  
+  ①
+  
+  縦に三本線のマークのボタンを押して、セッションビューにします。
+  
+  
+  ![rec_btn.jpg](./images/rec_btn.jpg)
+  
+  ②
+  
+  「3-Audio」トラックに並んでいるセルのどれかを押すと録音が始まります。
+  
+</div>
 
-「3-Audio」トラックに並んでいるセルのどれかを押すと録音が始まります。
-
-クリックは丸が2つ並んだボタンでオン/オフが出来ます。
-
-録音する長さは、「Fixed Length」ボタンを長押しすると、
-画面下部のボタンで小節の長さを設定できます。
-（ 「Fixed Length」  ボタンを何度か押して  Fixed Length: On にしてください ）
 
 ---
-#### カウントインの長さを設定しましょう
+#### もっとレコーディングをしやすくするために
+<div class="space"></div>
+  <figure>
+  <div class="big-img">
+        
+   ![click_btn.jpg](./images/click_btn.jpg)
+  </div>
 
-クリックボタンを長押しして、一番左のつまみを回して「Count In」でカウントインの小節数を設定できます。
+  <figcaption>
+    クリックは丸が2つ並んだボタンでオン/オフが出来ます。
+  </figcaption>
+  </figure>
+ <div class="space"></div>
+ <div class="space"></div>
+  <figure>
+  <div class="flex">
+    
+   ![fixed_len.jpg](./images/fixed_len.jpg)
+    
+   ![length_list.jpg](./images/length_list.jpg)
+  </div>
+  <figcaption class="caption-2-img">
+    録音する長さは、「Fixed Length」ボタンを長押しすると、画面下部のボタンで小節の長さを設定できます。<br>
+    （ 「Fixed Length」  ボタンを何度か押して  Fixed Length: On にしてください ）
+  </figcaption>
+  </figure>
 
 ---
-### まとめ
-
-今回は Push 3 を使って、エレキギターを録音してみました！
-
-- Tuner でギターをチューニング
-- Amp,  Cabinet デバイスでアンプの音色を再現
-- Audio トラックにギターを録音
-
-Push 3 Standalone なら、パソコンを使わずにギターの録音からビート制作まで楽しめます！
-
-ぜひ、自分だけのビートを作ってみてください！
+#### カウントインの長さを設定する
+<div class="space"></div>
+<div class="space"></div>
+<figure>
+  <div class="flex">
+  <div class="big-img">
+    
+   ![click_btn.jpg](./images/click_btn.jpg)
+    
+   ![countin.jpg](./images/countin.jpg)
+  </div>
+</div>
+<div class="space"></div>
+<div class="space"></div>
+<figcaption>
+  クリックボタンを長押しして、一番左のつまみを回して「Count In」でカウントインの小節数を設定できます。
+</figcaption>
+</figure>
