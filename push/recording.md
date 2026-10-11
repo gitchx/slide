@@ -79,7 +79,7 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 もう一度、Push 3の左上の歯車マークを押して 設定画面を抜けます。
 
 ---
-#### ギターの入力を設定しましょう！
+#### オーディオトラックを録音待機状態にする
 
 <div class="steps-textonly">
 
@@ -102,23 +102,24 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 
 ---
 ##### チューナーとギターアンプシミュレーターをインサートする
-<div class="flex">
-  <div class="more-lil-img">
-    <img src="./images/3-Audio-Track.jpg">
-  </div>
-  <div class="more-lil-text">
-    画面の「3-Audio」の下のボタンを押して、"「3-Audio」トラック"を選択します。
-  </div>
+
+<div class="steps-4">
+
+  ![3-Audio-Track.jpg](./images/3-Audio-Track.jpg)
+  
+  ①
+  
+  画面の「3-Audio」の下のボタンを押して、"「3-Audio」トラック"を選択します。
+  
+  ![plus.jpg](./images/plus.jpg)
+  
+  ②
+  
+  プラスボタンを押して、Device > Audio Effects > Tuner を選択します。
 </div>
 
-<div class="flex">
-  <div class="more-lil-img">
-    <img src="./images/plus.jpg">
-  </div>
-  <div class="more-lil-text">
-    プラスボタンを押して、Device > Audio Effects > Tuner を選択します。
-  </div>
-</div>
+<div class="space"></div>
+
 <div class="flex">
   <div class="browser-img">
     <figure>
@@ -131,7 +132,7 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
   
   <div class="browser-img">
     <figure>
-    <img src="./images/device-drums.jpg">
+    <img src="./images/browser_audioeffects.jpg">
     <figcaption>Device > Audio Effects</figcaption>
     </figure>
   </div>
@@ -140,28 +141,88 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 
   <div class="browser-img">
     <figure>
-    <img src="./images/device-drums-genpk.jpg">
+    <img src="./images/browser_tuner.jpg">
     <figcaption>Device > Audio Effects > Tuner</figcaption>
     </figure>
   </div>
 </div>
 ---
-同様の操作で Ampデバイス と Cabinetデバイス を追加していきます。
+##### 同様の操作で Ampデバイス と Cabinetデバイス を追加していきます。
 
 <div class="space"></div>
 
-<div class="flex">
-  <img src="./images/plus.jpg">
+<div class="steps-4">
   
-  プラスボタンを押して、Device > Audio Effects > Amp を選択します。
+![plus.jpg](./images/plus.jpg)
+    
+①
+    
+プラスボタンを押して、Device > Audio Effects > Amp を選択します。
+    
 </div>
 
 <div class="flex">
-  <img src="./images/plus.jpg">
+  <div class="browser-img">
+    <figure>
+    <img src="./images/device.jpg">
+    <figcaption>Device</figcaption>
+    </figure>
+  </div>
+
+→
   
-  プラスボタンを押して、Device > Audio Effects > Cabinet を選択します。
+  <div class="browser-img">
+    <figure>
+    <img src="./images/browser_audioeffects.jpg">
+    <figcaption>Device > Audio Effects</figcaption>
+    </figure>
+  </div>
+
+→
+
+  <div class="browser-img">
+    <figure>
+    <img src="./images/browser_tuner.jpg">
+    <figcaption>Device > Audio Effects > Amp</figcaption>
+    </figure>
+  </div>
+</div>
+<div class="steps-4">
+
+![plus.jpg](./images/plus.jpg)
+      
+②
+      
+プラスボタンを押して、Device > Audio Effects > Cabinet を選択します。
+
 </div>
 
+<div class="flex">
+  <div class="browser-img">
+    <figure>
+    <img src="./images/device.jpg">
+    <figcaption>Device</figcaption>
+    </figure>
+  </div>
+
+→
+  
+  <div class="browser-img">
+    <figure>
+    <img src="./images/browser_audioeffects.jpg">
+    <figcaption>Device > Audio Effects</figcaption>
+    </figure>
+  </div>
+
+→
+
+  <div class="browser-img">
+    <figure>
+    <img src="./images/browser_tuner.jpg">
+    <figcaption>Device > Audio Effects > Cabinet</figcaption>
+    </figure>
+  </div>
+</div>
 ---
 ### ギターをチューニングしましょう！
 Push 3の右上の 丸が欠けたマークのボタン を押してデバイスの一覧を表示して、
