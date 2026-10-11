@@ -73,14 +73,14 @@ figcaption{
 }
 
 .reveal figure img{
-  width: 15em;
+  width: 10em;
 }
 
 .caption-2-img{
   margin-top: 5em;
 }
 
-.reveal figure .big-img{
+.reveal figure .big-img p img{
   width: 15em;
   margin-inline: auto;
 }
