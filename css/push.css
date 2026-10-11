@@ -5,12 +5,15 @@
 .reveal img{
   width: 10em;
 }
-.lil-img {
-  width: 4em;
+.steps-4 img{
+  width: 6em;
+  margin: 0;
 }
-.more-lil-img {
-  width: 3em;
+
+.steps-4 p{
+  text-align:left;
 }
+
 .more-lil-text {
   font-size: 0.3em;
 }
@@ -44,6 +47,13 @@
   align-items: center;
 }
 
+.steps-4 {
+  display: grid;
+  grid-template-columns: 200px 20px 1fr;
+  gap: 20px 10px;
+  align-items: center;
+}
+
 .steps img {
   max-width: 100%;
   margin: 0;
@@ -51,5 +61,13 @@
 
 .steps p {
   margin: 0;
+  text-align: left;
+}
+
+.steps-textonly{
+  display: grid;
+  grid-template-columns: 20px 1fr;
+  gap: 20px 10px;
+  align-items: center;
   text-align: left;
 }

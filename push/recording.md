@@ -4,21 +4,22 @@
   何も入っていない空(から)の「曲」<br>"セット"を作成します。
 
 <div class="steps">
-  <img class="more-lil-img" src="./images/page_mark.jpg" alt="page-mark">
   
+  ![page_mark.jpg](./images/page_mark.jpg)
+
   ①
 
   ページのマーク（紙がめくれてる感じのマーク）を押します。
   
   
-  <img class="lil-img" src="./images/new_set.jpg">
+  ![new_set.jpg](./images/new_set.jpg)
   
   ② 
 
   画面に New Set ボタンが出てくるので、New Set の下のボタンを押します。
   
   
-  <img class="lil-img" src="./images/dont_save.jpg">
+  ![dont_save.jpg](./images/dont_save.jpg)
   
   ③ 
 
@@ -42,27 +43,60 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 ギターは標準フォーンケーブル（シールド）で接続します。
 
 ---
-ギター接続のための設定をする
+#### ギター接続のための設定をする
+<div class="steps-4">
 
-<img src="./images/dear_mark.jpg">
-Push 3の左上の歯車マークを押して、設定画面に入ります。
+![gear_mark.jpg](./images/gear_mark.jpg)
 
-画面下側のAudioのボタンを押して、Audioのタブに入ります。
+  ①
+  
+  Push 3の左上の歯車マークを押して、設定画面に入ります。
 
-左から3列目の項目を左から3つ目のつまみを回して、「Inst.」に設定します。
-※ ギターを直接接続する場合は、入力を Inst.（楽器用）に設定します。
+![audio_tab.jpg](./images/audio_tab.jpg)
 
-左から4つ目のつまみを回すことで音量調整が出来ます。
-演奏するときの強さでギターを弾いて、メーターにピークが付かないように設定します。
+  ②
+
+  画面下側のAudioのボタンを押して、Audioのタブに入ります。
+
+![inst_knob.jpg](./images/inst_knob.jpg)
+ 
+  ③
+  
+  左から3列目の項目を左から3つ目のつまみを回して、「Inst.」に設定します。
+  ※ ギターを直接接続する場合は、入力を Inst.（楽器用）に設定します。
+
+![volume_knob.jpg](./images/volume_knob.jpg)
+  
+  ④
+  
+  左から4つ目のつまみを回すことで音量調整が出来ます。<br>
+  演奏するときの強さでギターを弾いて、メーターにピークが付かないように設定します。
+
+</div>
+
+<div class="space"></div>
 
 もう一度、Push 3の左上の歯車マークを押して 設定画面を抜けます。
+
 ---
-### ギターの入力を設定しましょう！
+#### ギターの入力を設定しましょう！
 
-画面の下の左から3番目のボタンを押して、「3-Audio」トラックを選択します。
+<div class="steps-textonly">
 
-Push 3の左下の録音ボタンを押しながら、トラック選択のボタン(画面の下の左から3番目のボタン)を押します。
-<img src="./images/rec_ready.jpg">
+  ①
+
+
+  画面の下の左から3番目のボタンを押して、「3-Audio」トラックを選択します。
+  
+
+  ②
+
+
+  Push 3の左下の録音ボタンを押しながら、トラック選択のボタン(画面の下の左から3番目のボタン)を押します。
+
+</div>
+
+![rec_ready.jpg](./images/rec_ready.jpg)
 
 ギターの音が聞こえるようになります！
 
