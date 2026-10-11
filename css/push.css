@@ -21,23 +21,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1em;
+  height: 3em;
 }
 .space{
   height: 1em;
 }
-.browser-img img{
-  width: 3em;
-}
 
-.browser-img figcaption{
+
+figcaption{
   font-size: 0.3em;
 }
-.browser-img figure{
-  margin: 0;
-}
+
 .reveal figure img {
   margin: 0;
+  width: 6em;
 }
 
 .steps {
@@ -70,4 +67,7 @@
   gap: 20px 10px;
   align-items: center;
   text-align: left;
+}
+.big-img img{
+  width: 25em;
 }

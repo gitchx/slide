@@ -102,6 +102,7 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 
 ---
 ##### チューナーとギターアンプシミュレーターをインサートする
+<div class="space"></div>
 
 <div class="steps-4">
 
@@ -121,30 +122,27 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 <div class="space"></div>
 
 <div class="flex">
-  <div class="browser-img">
-    <figure>
-    <img src="./images/device.jpg">
-    <figcaption>Device</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![device.jpg](./images/device.jpg)
+  <figcaption>Device</figcaption>
+  </figure>
 
 →
   
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_audioeffects.jpg">
-    <figcaption>Device > Audio Effects</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![browser_audioeffects.jpg](./images/browser_audioeffects.jpg)
+  <figcaption>Device > Audio Effects</figcaption>
+  </figure>
 
 →
 
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_tuner.jpg">
-    <figcaption>Device > Audio Effects > Tuner</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![browser_tuner.jpg](./images/browser_tuner.jpg)
+  <figcaption>Device > Audio Effects > Tuner</figcaption>
+  </figure>
 </div>
 ---
 ##### 同様の操作で Ampデバイス と Cabinetデバイス を追加していきます。
@@ -162,31 +160,29 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 </div>
 
 <div class="flex">
-  <div class="browser-img">
-    <figure>
-    <img src="./images/device.jpg">
-    <figcaption>Device</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![device.jpg](./images/device.jpg)
+  <figcaption>Device</figcaption>
+  </figure>
 
 →
   
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_audioeffects.jpg">
-    <figcaption>Device > Audio Effects</figcaption>
-    </figure>
-  </div>
+  <figure>
+    
+  ![browser_audioeffects.jpg](./images/browser_audioeffects.jpg)
+  <figcaption>Device > Audio Effects</figcaption>
+  </figure>
 
 →
 
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_tuner.jpg">
-    <figcaption>Device > Audio Effects > Amp</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![browser_tuner.jpg](./images/browser_tuner.jpg)
+  <figcaption>Device > Audio Effects > Amp</figcaption>
+  </figure>
 </div>
+
 <div class="steps-4">
 
 ![plus.jpg](./images/plus.jpg)
@@ -198,60 +194,59 @@ Push 3 の背面にある入力端子にエレキギターを接続します。
 </div>
 
 <div class="flex">
-  <div class="browser-img">
-    <figure>
-    <img src="./images/device.jpg">
-    <figcaption>Device</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![device.jpg](./images/device.jpg)
+  <figcaption>Device</figcaption>
+  </figure>
 
 →
   
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_audioeffects.jpg">
-    <figcaption>Device > Audio Effects</figcaption>
-    </figure>
-  </div>
+  <figure>
+    
+  ![browser_audioeffects.jpg](./images/browser_audioeffects.jpg)
+  <figcaption>Device > Audio Effects</figcaption>
+  </figure>
 
 →
 
-  <div class="browser-img">
-    <figure>
-    <img src="./images/browser_tuner.jpg">
-    <figcaption>Device > Audio Effects > Cabinet</figcaption>
-    </figure>
-  </div>
+  <figure>
+
+  ![browser_tuner.jpg](./images/browser_tuner.jpg)
+  <figcaption>Device > Audio Effects > Cabinet</figcaption>
+  </figure>
 </div>
 ---
-### ギターをチューニングしましょう！
-Push 3の右上の 丸が欠けたマークのボタン を押してデバイスの一覧を表示して、
-画面左上の Tunerの文字の上のボタンを押します。
+#### ギターをチューニングしましょう！
+
+<div class="steps">
+
+  ![device_btn.jpg](./images/device_btn.jpg)
+  
+  ①
+  
+  Push 3の右上の 丸が欠けたマークのボタン を押してデバイスの一覧を表示します
+  
+  ![tuner_btn.jpg](./images/tuner_btn.jpg)
+  
+  ②
+  
+  画面左上の Tunerの文字の上のボタンを押します
+</div>
+
+<div class="space"></div>
 
 画面がチューナーになるので、チューニングしましょう！
 
 ---
-### アンプの音を作ってみましょう！
+#### ギターの音作りをする
 
-追加した Amp デバイスを選択します。
+Tunerの横の「Amp」や「Cabinet」のボタンを押すことで画面上部のつまみを使って<br>それぞれのデバイスの設定ができます。
 
-Amp は、実際のギターアンプの音色を再現するエフェクトです。
-<div class="space"></div>
+<div class="big-img">
 
-まずは Amp の種類を「Blues」に設定してみましょう。
-
-Gain を上げると、音が歪んでいきます。
-
-Bass、Middle、Treble を調整すると、音の低域・中域・高域を変えることができます。
-
----
-### Cabinet を設定しましょう！
-
-Cabinet は、ギターアンプのスピーカー部分を再現するエフェクトです。
-
-Amp と Cabinet を組み合わせることで、実際のギターアンプに近い音を作ることができます。
-
-まずは初期設定のまま使ってみましょう！
+  ![gt_setting.jpg](./images/gt_setting.jpg)
+</div>
 
 ---
 ##### ギターを録音してみましょう！
